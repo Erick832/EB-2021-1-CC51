@@ -2,10 +2,6 @@
 # Objetivo
 Crear conocimiento a partir de los datos, al desarrollar un Análisis Exploratorio de Datos (EDA) y resolver un problema básico de Modelización de Datos, en el marco de la ejecución de un proyecto de analítica.
 
-# Alumnos participantes
-•	Erick Wilson Aronés Garcilazo
-•	David Martin Yanallaco Temoche
-
 # Breve descripción del conjunto de datos 
 El conjunto de datos motivo de análisis se denomina “Tendencias de las estadísticas de videos de YouTube” (Trending YouTube Video Statistics). Este conjunto de datos, en su versión original se obtiene desde el sitio web Kaggle, de la cuenta de Mitchell J. Este usuario se desempeña como desarrollador de software en Backbeat Technologies y es proveniente del Reyno Unido.
 
